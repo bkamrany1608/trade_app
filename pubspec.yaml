@@ -1,0 +1,14 @@
+name: trade_companion
+description: Android control-panel starter for MT4 via a secure MetaApi Cloud backend
+publish_to: none
+version: 0.1.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
